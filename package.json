@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-startkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/code-templates/nodejs-startkit",
+  "author": "Baiyuan Wang",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
+}
